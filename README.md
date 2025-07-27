@@ -17,12 +17,11 @@ A simple Python console application that helps users track their income and expe
 
 How to Run
 
-1. **Install Python** (if not installed):
+1. Install Python (if not installed):
    - [Download from python.org](https://www.python.org/downloads/)
-2. Open terminal or VS Code**
+2. Open terminal or VS Code
 3. Run the script:
 
-bash
 python budget_tracker.py
 
 ---
